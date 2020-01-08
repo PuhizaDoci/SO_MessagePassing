@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\bin\Debug\netcoreapp2.1\SistemeOperative.deps.json
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\bin\Debug\netcoreapp2.1\SistemeOperative.runtimeconfig.json
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\bin\Debug\netcoreapp2.1\SistemeOperative.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\bin\Debug\netcoreapp2.1\SistemeOperative.dll
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\obj\Debug\netcoreapp2.1\SistemeOperative.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\obj\Debug\netcoreapp2.1\SistemeOperative.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\obj\Debug\netcoreapp2.1\SistemeOperative.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\obj\Debug\netcoreapp2.1\SistemeOperative.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\bin\Debug\netcoreapp2.1\SistemeOperative.pdb
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\obj\Debug\netcoreapp2.1\SistemeOperative.dll
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperative\obj\Debug\netcoreapp2.1\SistemeOperative.pdb

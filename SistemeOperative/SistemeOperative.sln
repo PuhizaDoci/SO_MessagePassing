@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemeOperative", "SistemeOperative\SistemeOperative.csproj", "{FA442BD0-42AB-483C-9518-B400C10B5A62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemeOperativeKlient", "SistemeOperativeKlient\SistemeOperativeKlient.csproj", "{D5E56AF4-B90F-4097-967C-327B983D1661}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA442BD0-42AB-483C-9518-B400C10B5A62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA442BD0-42AB-483C-9518-B400C10B5A62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA442BD0-42AB-483C-9518-B400C10B5A62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA442BD0-42AB-483C-9518-B400C10B5A62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5E56AF4-B90F-4097-967C-327B983D1661}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5E56AF4-B90F-4097-967C-327B983D1661}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5E56AF4-B90F-4097-967C-327B983D1661}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5E56AF4-B90F-4097-967C-327B983D1661}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D55AD18-68D6-4C3E-BC9D-69EA20F7E564}
+	EndGlobalSection
+EndGlobal

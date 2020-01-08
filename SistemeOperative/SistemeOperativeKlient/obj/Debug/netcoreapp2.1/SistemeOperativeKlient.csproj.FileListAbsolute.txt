@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperativeKlient.deps.json
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperativeKlient.runtimeconfig.json
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperativeKlient.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperativeKlient.dll
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperativeKlient.pdb
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.dll
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.pdb
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperative.dll
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\bin\Debug\netcoreapp2.1\SistemeOperative.pdb
+C:\Users\Admin\source\repos\SistemeOperative\SistemeOperativeKlient\obj\Debug\netcoreapp2.1\SistemeOperativeKlient.csproj.CopyComplete
